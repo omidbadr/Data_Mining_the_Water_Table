@@ -9,3 +9,7 @@ Predict one of these three classes based on a number of variables about what kin
 * Random forest feature importance: no wonder the location of the pump is important on whether the pump is functional or need some repair, introducing some potential in location analysis (Basemap library)
 
 ![fe](https://user-images.githubusercontent.com/22400053/42697124-398a3c2a-8688-11e8-910a-91c266504060.jpg)
+
+* Random forest sample tree
+
+![tree](https://user-images.githubusercontent.com/22400053/42698263-5d128dca-868b-11e8-9b39-383aa3003a2a.jpg)
